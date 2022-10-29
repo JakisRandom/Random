@@ -77,7 +77,6 @@ public class ICbored {
 
     public static boolean endOther(String a, String b) {
      if (a.endsWith(b))
-         System.out.println("test");
          return true;
      else if (b.endsWith(a))
          return true;
