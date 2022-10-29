@@ -98,7 +98,7 @@ public class ICbored {
                 }
                 else if (i2 == sought.length())
                     fullCount++;
-                System.out.println("hhha");
+
 
                 }
             }
